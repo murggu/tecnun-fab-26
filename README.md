@@ -1,10 +1,9 @@
-# tecnun-fab-25
+# tecnun-fab-26
 
 ### Implement a lakehouse with Microsoft Fabric 
 
 Create a Microsoft Fabric Lakehouse
 - https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/01-lakehouse.html
-
 
 Analyze data with Apache Spark in Fabric
 - https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html
